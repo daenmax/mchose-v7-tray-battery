@@ -1,0 +1,14 @@
+D:\code\c#\my-device-dev\probe\bin\Debug\net10.0-windows\hidprobe.exe
+D:\code\c#\my-device-dev\probe\bin\Debug\net10.0-windows\hidprobe.deps.json
+D:\code\c#\my-device-dev\probe\bin\Debug\net10.0-windows\hidprobe.runtimeconfig.json
+D:\code\c#\my-device-dev\probe\bin\Debug\net10.0-windows\hidprobe.dll
+D:\code\c#\my-device-dev\probe\bin\Debug\net10.0-windows\hidprobe.pdb
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\probe.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\probe.AssemblyInfoInputs.cache
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\probe.AssemblyInfo.cs
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\probe.csproj.CoreCompileInputs.cache
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\hidprobe.dll
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\refint\hidprobe.dll
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\hidprobe.pdb
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\probe.genruntimeconfig.cache
+D:\code\c#\my-device-dev\probe\obj\Debug\net10.0-windows\ref\hidprobe.dll

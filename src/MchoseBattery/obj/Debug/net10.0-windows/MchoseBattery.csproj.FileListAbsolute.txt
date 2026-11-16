@@ -1,0 +1,14 @@
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\MchoseBattery.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\MchoseBattery.AssemblyInfoInputs.cache
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\MchoseBattery.AssemblyInfo.cs
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\MchoseBattery.csproj.CoreCompileInputs.cache
+D:\code\c#\my-device-dev\src\MchoseBattery\bin\Debug\net10.0-windows\MchoseBattery.exe
+D:\code\c#\my-device-dev\src\MchoseBattery\bin\Debug\net10.0-windows\MchoseBattery.deps.json
+D:\code\c#\my-device-dev\src\MchoseBattery\bin\Debug\net10.0-windows\MchoseBattery.runtimeconfig.json
+D:\code\c#\my-device-dev\src\MchoseBattery\bin\Debug\net10.0-windows\MchoseBattery.dll
+D:\code\c#\my-device-dev\src\MchoseBattery\bin\Debug\net10.0-windows\MchoseBattery.pdb
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\MchoseBattery.dll
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\refint\MchoseBattery.dll
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\MchoseBattery.pdb
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\MchoseBattery.genruntimeconfig.cache
+D:\code\c#\my-device-dev\src\MchoseBattery\obj\Debug\net10.0-windows\ref\MchoseBattery.dll

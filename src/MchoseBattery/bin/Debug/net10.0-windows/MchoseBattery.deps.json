@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MchoseBattery/1.0.0": {
+        "runtime": {
+          "MchoseBattery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MchoseBattery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
